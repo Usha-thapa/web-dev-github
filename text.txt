@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-This is my another File!!
-=======
 This is my again File!!
->>>>>>> feature
 
